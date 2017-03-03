@@ -1,14 +1,11 @@
 # Info
-$ mkdir ~/MCA info
+Je m'appelle Lerieur Carlos
+Je voudrait ceer un site complet car j'adore editer
+Mon site viserait a encourager tout ceux qui aiment editer comme moi
+Je voudrais les aider a trouver les bons tutos pour exceller dans la matiere
 
-# Crée un répertoire pour votre projet nommé "MCA info" dans votre répertoire utilisateur local
+## Experience
+. J'ai concu quelques site statiques
 
-$ cd ~/MCA info
-# Modifie le répertoire de travail en cours pour votre nouveau répertoire fraîchement créé
-
-$ git init
-# Installe les fichiers Git nécessaire
-# Initialise le répertoire vite Git dans /Users/you/MCA info/.git/
-
-$ touch README
-# Crée un fichier nommé "README" dans votre répertoire local Hello-World
+## Pourqoui je suis ici
+Je suis ici pour ameliorer mes competence en developpement
